@@ -40,11 +40,19 @@ The dataset is available [here](https://bitbucket.org/jadslim/german-traffic-sig
 5. You can use a differnt method for preprocessing image data.
 
 ### Some of the images I have used for testing:
+
+##### Slippery Road
 ![Slippery Road](https://previews.123rf.com/images/bwylezich/bwylezich1608/bwylezich160800375/64914157-german-road-sign-slippery-road.jpg)
+
+##### Yield
 ![Yield](https://previews.123rf.com/images/pejo/pejo0907/pejo090700003/5155701-german-traffic-sign-no-205-give-way.jpg)
+
+##### Turn left ahead
 ![Turn left ahead](https://c8.alamy.com/comp/A0RX23/cars-and-automobiles-must-turn-left-ahead-sign-A0RX23.jpg)
+
+##### Speed limit (30km/h)
 ![Speed limit 30km/h](https://c8.alamy.com/comp/G667W0/road-sign-speed-limit-30-kmh-zone-passau-bavaria-germany-G667W0.jpg)
 
 ### Graphs for accuracy and loss
-![For 10 epochs](C:\Users\Elio\Desktop\raw=true "download.png")
+
 
