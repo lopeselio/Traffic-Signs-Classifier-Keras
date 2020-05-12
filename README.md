@@ -54,5 +54,7 @@ The dataset is available [here](https://bitbucket.org/jadslim/german-traffic-sig
 ![Speed limit 30km/h](https://c8.alamy.com/comp/G667W0/road-sign-speed-limit-30-kmh-zone-passau-bavaria-germany-G667W0.jpg)
 
 ### Graphs for accuracy and loss
+##### For 10 epochs
+![graph](https://github.com/lopeselio/Traffic-Signs-Classifier-Keras/blob/master/graph/download%20(1).png)
 
 
